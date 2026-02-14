@@ -1,7 +1,7 @@
  👋 Merhaba, Ben Zeynep Zilan Korkmaz
 
 ### **Backend Developer | AI Systems & Solutions**
-Balıkesir Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri çekme (scraping), katmanlı backend mimarileri ve yapay zeka modellerinin (Edge AI) optimize edilerek sistemlere entegre edilmesi konularında uzmanlaşıyorum.
+Balıkesir Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri çekme (scraping), katmanlı backend mimarileri ve yapay zeka modellerinin (Edge AI) optimize edilerek sistemlere entegre edilmesi konularında çalışmalar yapıyorum.
 
 - 🌍 **Lokasyon:** Balıkesir / İzmir (Hibrit/Uzaktan çalışmaya açık)
 - 🌱 **Şu an:** Edge AI, Model Quantization (TensorRT/ONNX) ve Gelişmiş Görüntü İşleme, Gömülü Sistemler.
