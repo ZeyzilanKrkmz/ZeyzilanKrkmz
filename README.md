@@ -5,7 +5,7 @@ Balıkesir Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim
 
 - 🌍 **Lokasyon:** Balıkesir / İzmir (Hibrit/Uzaktan çalışmaya açık)
 - 🌱 **Şu an:** Edge AI, Model Quantization (TensorRT/ONNX) ve Gelişmiş Görüntü İşleme, Gömülü Sistemler.
-- 🧠 **İlgi Alanları:** Katmanlı Mimari (FastAPI), Bilgisayarlı Görü (YOLO/DeepSORT) ve Veri Mühendisliği.
+- 🧠 **İlgi Alanları:** Katmanlı Mimari (FastAPI), Bilgisayarlı Görü (YOLO/DeepSORT) ve AI solutions.
 
 ---
 
@@ -28,7 +28,7 @@ Balıkesir Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim
 | **Backend** | Python (FastAPI, Flask), Node.js, C++ |
 | **Veritabanı** | PostgreSQL, MongoDB, Redis |
 | **DevOps & Tooling** | Docker, Docker Compose, Git (Gitflow), Alembic, Swagger |
-| **Yapay Zeka** | PyTorch, YOLOv8, DeepSORT, ONNX, TensorRT |
+| **Yapay Zeka** | PyTorch, YOLOv8, DeepSORT, ONNX |
 | **Web Scraping** | Playwright, Selenium, BeautifulSoup |
 
 ---
