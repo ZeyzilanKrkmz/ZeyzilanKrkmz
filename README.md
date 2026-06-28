@@ -67,7 +67,7 @@ Balıkesir Üniversitesi'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim
 ### İletişim
 
 📫 **Bana Ulaşın:**
-[LinkedIn](https://www.linkedin.com/in/zeynep-zilan-korkmaz-6621a62a4?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Email](mailto:(zeyzilankrkmz3435@gmail.com)) | [Medium](https://medium.com/@zzk603061)|zyzln.xyz)
+[LinkedIn](https://www.linkedin.com/in/zeynep-zilan-korkmaz-6621a62a4?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Email](mailto:(zeyzilankrkmz3435@gmail.com)) | [Medium](https://medium.com/@zzk603061)|[zyzln.xyz])
 
 ---
 
